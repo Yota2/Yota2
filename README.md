@@ -1,7 +1,3 @@
-### Hi ther
-[![MasterHead](https://www.freepik.com/free-vector/java-developer-smartphone-software-javascript-coding-writing-application-css-programming-html-source-code-tampering-mobile-program-vector-isolated-concept-metaphor-illustration_11668330.htm#query=java&position=0&from_view=keyword)]
-<img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9">
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Yohana</h1>
 <h3 align="center">A passionate Java developer</h3>
