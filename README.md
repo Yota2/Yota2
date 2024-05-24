@@ -16,8 +16,7 @@
 
 - ⚡ Fun fact **Melody creation is my  gift, but my true joy lies in tackling programming challenges.
 
-pen_spark
-**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
