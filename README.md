@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yota2&label=Profile%20views&color=0e75b6&style=flat" alt="yota2" /> </p>
 
-- 🔭 I’m currently studing [java enterprise development](@ intecbrussel)
+- 🔭 "I'm currently working on a personal project in Randstad using Java and Spring Boot for the backend and React for the frontend.
 
 - 🌱 I’m currently learning **Symfony , Docker , **
 
@@ -14,7 +14,10 @@
 
 - 📫 How to reach me **yoni.jmr@gmail.com**
 
-- ⚡ Fun fact **melody creator and guitarist**
+- ⚡ Fun fact **Melody creation is my  gift, but my true joy lies in tackling programming challenges.
+
+pen_spark
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
