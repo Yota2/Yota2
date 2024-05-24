@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studing [java enterprise development](@ intecbrussel)
 
-- 🌱 I’m currently learning **Spring Boot , React**
+- 🌱 I’m currently learning **Symfony , Docker , **
 
 - 👨‍💻 All of my projects are available at [git](git)
 
