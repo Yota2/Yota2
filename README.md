@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yohana</h1>
-<h3 align="center">A passionate Java → Spring Boot / PHP → Symfony {Backend Developer}</h3>
+<h3 align="center">A passionate {AI and Backend Developer} specializing in Python and Java (Spring Boot) / PHP (Symfony), with a creative flair for music and technology-driven innovation </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yota2&label=Profile%20views&color=0e75b6&style=flat" alt="yota2" /> </p>
 
